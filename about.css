@@ -1,0 +1,14 @@
+.projects {
+  border: 5px solid #ffffff;
+  border-width: 0 1px;
+  text-align: center;
+  font-size: large;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  display: inline-block;
+  overflow: hidden;
+}
+/*# sourceMappingURL=about.css.map */
