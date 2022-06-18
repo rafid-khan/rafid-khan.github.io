@@ -29,17 +29,6 @@ nav{
     font-size: 20px;
 }
 
-.image{
-    width: 100vw;
-    height: 92vh; 
-    background-size: 100% 1000%;
-    background-repeat: no-repeat;
-    position: relative;
-    overflow: auto;
-    background-color: gray;
-}
-
-
 .nav-links{
     display: flex;
     justify-content: space-around;
